@@ -2,7 +2,7 @@
 <h3 align="center">The best websites are not built on the web, but in the minds.</h3>
 
 
-- 🔭 I’m currently working on Jobi.ai and you can visit it at www.jobi.ai
+- 🔭 I’m currently working on Jobi.ai and you can visit us at www.jobi.ai
 
 - 📫 How to reach me **devmanoharrr@gmail.com**
 
