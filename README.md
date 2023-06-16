@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #ddd;">Hi 👋, I'm Manohar Yeruva</h1>
+<h1 align="center">Hi 👋, I'm Manohar Yeruva</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 
