@@ -4,14 +4,9 @@
 
 - 🔭 I’m currently working on Jobi.ai and you can visit it at www.jobi.ai
 
-
-
-- 🌱 I’m currently learning **PHP, React.js**
-
-
 - 📫 How to reach me **devmanoharrr@gmail.com**
 
-- ⚡ Fun fact **I find the concept of consciousness fascinating and am curious about its nature, origins, and potential interconnectedness.**
+- ⚡ **I find the concept of consciousness fascinating and am curious about its nature, origins, and potential interconnectedness.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
