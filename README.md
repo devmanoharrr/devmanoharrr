@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **devmanoharrr@gmail.com**
 
-- ⚡ **I find the concept of consciousness fascinating and am curious about its nature, origins, and potential interconnectedness.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devmanoharrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmanoharrr" height="30" width="40" /></a>
