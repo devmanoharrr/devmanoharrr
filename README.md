@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 
-- 🔭 I’m currently working on [jobi.ai]
+- 🔭 I’m currently working on jobi.ai
 
 
 
