@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **PHP, React.js**
 
-- 💬 Ask me about **HTML Css JavaScript**
 
 - 📫 How to reach me **devmanoharrr@gmail.com**
 
