@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manohar Yeruva</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">The best websites are not built on the web, but in the minds.</h3>
 
 
-- 🔭 I’m currently working on jobi.ai
+- 🔭 I’m currently working on Jobi.ai and you can visit it at www.jobi.ai
 
 
 
