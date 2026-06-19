@@ -196,13 +196,13 @@ I enjoy building products from idea to production.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev2manoharrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devmanoharrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev2manoharrr&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devmanoharrr&theme=tokyonight&hide_border=true" />
 
 <br />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2manoharrr&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanoharrr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -290,7 +290,7 @@ I enjoy building products from scratch and improving them until they become usef
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=dev2manoharrr&label=Profile%20Views&color=7F00FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=devmanoharrr&label=Profile%20Views&color=7F00FF&style=for-the-badge" />
 
 <br />
 <br />
