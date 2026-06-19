@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Building+real-world+products+with+software+%F0%9F%9A%80;Full+Stack+Developer+%7C+Laravel+%7C+React+%7C+MySQL;AI+Product+Builder+%7C+Resume+Tech+%7C+ATS+Optimization;Oracle+Retail+%7C+Enterprise+Systems+%7C+Production+Support;Currently+building+Jobi.ai+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Building+real-world+products+with+software+%F0%9F%9A%80;Full+Stack+Developer+%7C+Laravel+%7C+React+%7C+MySQL;AI+Product+Builder+%7C+Resume+Tech+%7C+ATS+Optimization;Currently+building+Jobi.ai+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
