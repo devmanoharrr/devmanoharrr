@@ -50,9 +50,9 @@ Right now, I’m building **[Jobi.ai](https://www.jobi.ai)** — an AI-powered r
 
 ```txt
 ╔══════════════════════════════════════════════════════════════╗
-║                      MANOHAR YERUVA                         ║
+║                     YERUVA MANOHAR REDDY                     ║
 ╠══════════════════════════════════════════════════════════════╣
-║ Role              Software Engineer                         ║
+║ Role              Software Engineer                          ║
 ║ Class             Full Stack Developer + Product Builder     ║
 ║ Current Quest     Building Jobi.ai                           ║
 ║ Main Stack        Laravel, PHP, MySQL, React, JavaScript     ║
@@ -196,13 +196,7 @@ I enjoy building products from idea to production.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devmanoharrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devmanoharrr&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanoharrr&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=devmanoharrr&theme=tokyonight&hide_border=true" />
 
 </div>
 
